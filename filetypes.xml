@@ -9,6 +9,7 @@
       <mapping pattern="customer-white.svg" type="PLAIN_TEXT" />
       <mapping pattern="laracasts" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping pattern="image_library.yaml" type="YAML" />
